@@ -17,6 +17,12 @@ I am a specialized **AI Safety & Perception Engineer** focused on building resil
 
 ### 🛡️ Featured Work
 
+#### [🎓 Bachelor-Thesis (LLM Vulnerability Patch Localization Benchmark)](https://github.com/VenkataVishnuVardhanReddy/Bachelor-Thesis)
+*The complete dataset, evaluation pipeline, and empirical results for the security thesis: "Evaluating LLM-Based Vulnerability Patch Localization" in collaboration with RISE Sweden.*
+* **Objective**: Benchmarked Gemini and Qwen models on locating exact line-level coordinates of software vulnerabilities (CVEs) in C/C++ and Python.
+* **Evaluation Metrics**: Strictly evaluated localization accuracy using Strict/Binary location matching, CWE taxonomy alignment, CodeBERTScore, and CodeBLEU semantic/syntactic scoring.
+* **Stack**: `Python` • `Gemini API` • `Qwen API` • `CodeBERT` • `CodeBLEU` • `Regular Expressions`
+
 #### [🚗 SecureDrive-CV (Adversarial Robustness Pipeline)](https://github.com/VenkataVishnuVardhanReddy/SecureDrive-CV)
 *An enterprise-grade perception safety pipeline that simulates gradient-based attacks on autonomous vehicle detectors and deploys input sanitization shields.*
 * **Security Vector**: FGSM, PGD, and Adaptive AutoAttacks targeting YOLOv8 & CLIP zero-shot models.
@@ -24,7 +30,7 @@ I am a specialized **AI Safety & Perception Engineer** focused on building resil
 * **Standards Compliance**: Real-time SSIM/IoU telemetry and automated ISO 21448 SOTIF compliance PDF reports.
 * **Stack**: `Python` • `PyTorch` • `YOLOv8` • `CLIP` • `Streamlit` • `scikit-image` • `fpdf2` • `Pytest`
 
-#### [🔒 Sovereign-Shield (Enterprise AI Security Gateway)](https://github.com/VenkataVishnuVardhanReddy/Sovereign-Shield) *(Make sure to push this project to your GitHub too!)*
+#### [🔒 Sovereign-Shield (Enterprise AI Security Gateway)](https://github.com/VenkataVishnuVardhanReddy/Sovereign-Shield)
 *A high-performance sovereign AI security gateway enforcing multi-tenant policy routing and firewall sanitization over enterprise LLM vendors.*
 * **Broker & Queue**: Celery task workers with Redis broker processing multi-source data streams.
 * **Database & Scale**: Structured PostgreSQL backend storing system audit logs and policy configurations.
@@ -65,16 +71,3 @@ I am a specialized **AI Safety & Perception Engineer** focused on building resil
     </td>
   </tr>
 </table>
-
----
-
-### 📊 GitHub Activity & Telemetry
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VenkataVishnuVardhanReddy&show_icons=true&theme=nord&count_private=true" alt="Vishnu's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VenkataVishnuVardhanReddy&layout=compact&theme=nord" alt="Top Langs" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VenkataVishnuVardhanReddy&theme=nord" alt="GitHub Streak" width="97%" />
-</p>
