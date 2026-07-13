@@ -17,7 +17,7 @@ I am a specialized **AI Safety & Perception Engineer** focused on building resil
 
 ### 🛡️ Featured Work
 
-#### [🎓 Bachelor-Thesis (LLM Vulnerability Patch Localization Benchmark)](https://github.com/VenkataVishnuVardhanReddy/Bachelor-Thesis)
+#### [🎓 Master's Thesis (LLM Vulnerability Patch Localization Benchmark)](https://github.com/VenkataVishnuVardhanReddy/thesis_vulnerability_analysis)
 *The complete dataset, evaluation pipeline, and empirical results for the security thesis: "Evaluating LLM-Based Vulnerability Patch Localization" in collaboration with RISE Sweden.*
 * **Objective**: Benchmarked Gemini and Qwen models on locating exact line-level coordinates of software vulnerabilities (CVEs) in C/C++ and Python.
 * **Evaluation Metrics**: Strictly evaluated localization accuracy using Strict/Binary location matching, CWE taxonomy alignment, CodeBERTScore, and CodeBLEU semantic/syntactic scoring.
@@ -30,17 +30,17 @@ I am a specialized **AI Safety & Perception Engineer** focused on building resil
 * **Standards Compliance**: Real-time SSIM/IoU telemetry and automated ISO 21448 SOTIF compliance PDF reports.
 * **Stack**: `Python` • `PyTorch` • `YOLOv8` • `CLIP` • `Streamlit` • `scikit-image` • `fpdf2` • `Pytest`
 
+#### [🎓 Bachelor's Thesis (Fake News Detection)](https://github.com/VenkataVishnuVardhanReddy/Bachelor-Thesis)
+*A machine learning and natural language processing system developed to classify and detect fake news articles.*
+* **Objective**: Built text pre-processing pipelines (TF-IDF, Tokenization) and trained classifiers to identify fabricated news articles.
+* **Stack**: `Python` • `NLP` • `Scikit-Learn` • `Pandas` • `Machine Learning`
+
 #### [🔒 Sovereign-Shield (Enterprise AI Security Gateway)](https://github.com/VenkataVishnuVardhanReddy/Sovereign-Shield)
 *A high-performance sovereign AI security gateway enforcing multi-tenant policy routing and firewall sanitization over enterprise LLM vendors.*
 * **Broker & Queue**: Celery task workers with Redis broker processing multi-source data streams.
 * **Database & Scale**: Structured PostgreSQL backend storing system audit logs and policy configurations.
 * **Intelligent Layer**: Gemini API-driven RAG pipeline generating real-time plain language compliance gap remediation reports.
 * **Stack**: `FastAPI` • `Redis` • `PostgreSQL` • `Celery` • `Docker` • `Azure` • `CloudWatch`
-
-#### [📊 NIS2 Directive Compliance Scanner](https://github.com/VenkataVishnuVardhanReddy/NIS2-Compliance-Scanner)
-*Automated institutional compliance scanner mapping local system configurations to EU NIS2 regulatory standards.*
-* **Telemetry**: Live telemetry dashboards monitoring active system vulnerability surfaces.
-* **Stack**: `Python` • `Bash` • `Docker` • `YAML Configurations`
 
 ---
 
