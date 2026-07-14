@@ -1,17 +1,17 @@
 # Hi, I'm Venkata Vishnu Vardhan Reddy 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=AI+Safety+%26+Perception+Engineer;Sovereign+AI+Security+Architect;Building+Resilient+Autonomy" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Engineer;Data+Science+%26+Security+Specialist;Building+Resilient+Autonomy" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🇸🇪 About Me
-I am a specialized **AI Safety & Perception Engineer** focused on building resilient computer vision pipelines, secure AI gateways, and compliance scanner architectures for safety-critical environments. My work centers on adversarial red-teaming, input sanitization networks, and sovereign cloud deployments.
+I am a specialized **AI, Machine Learning (ML), Data Science, and Security Engineer** focused on building resilient computer vision pipelines, secure AI gateways, and compliance scanner architectures for safety-critical environments. My work spans adversarial red-teaming, input sanitization networks, statistical data modeling, and sovereign cloud deployments.
 
-* 🚗 **Core Focus**: Adversarial Robustness in Autonomous Perception (CNNs/Transformers) & Secure LLM Gateways.
+* 🧠 **Core Focus**: AI, Machine Learning (ML), Data Science applications, and security-hardened LLM Gateways.
 * 🛠️ **Hiring Sector Alignment**: Deeply aligned with Swedish automotive AI research & cybersecurity standards (ISO 21448/SOTIF & NIS2 Directive).
-* ✉️ **Reach me at**: [nani200207@gmail.com](mailto:nani200207@gmail.com) | [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN-USERNAME) *(Replace with your username)*
+* ✉️ **Reach me at**: [gurramvishnuvardhaneddy2019@gmail.com](mailto:gurramvishnuvardhaneddy2019@gmail.com) | [LinkedIn](https://www.linkedin.com/in/vishnu-vardhan-reddy-g-66a965242)
 
 ---
 
